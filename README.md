@@ -7,7 +7,7 @@
   * 👨🏻‍💻 Desenvolvimento de Sistemas
 
 <p>
- Olá, meu nome é Lucas e sou técnico em Desenvolvimeto de Sistemas desde 2023. Regularmente adiciono meus projetos pessoais e estudos de programação aqui no GitHub.
+Olá, meu nome é Lucas e sou técnico em Desenvolvimento de Sistemas formado pelo Centro Paula Souza-SP em 2023. Costumo adicionar regularmente meus projetos pessoais e estudos de programação no meu GitHub.
 </p>
 
   <div>
