@@ -7,7 +7,7 @@
   * 👨🏻‍💻 Desenvolvimento de Sistemas
 
 <p>
-Olá, meu nome é Lucas e sou técnico em Desenvolvimento de Sistemas formado pelo Centro Paula Souza-SP. Costumo adicionar regularmente meus projetos pessoais e estudos de programação no meu GitHub.
+Olá, meu nome é Lucas e sou técnico em Desenvolvimento de Sistemas, formado pelo Centro Paula Souza-SP. Regularmente, adiciono meus projetos pessoais e estudos de programação no meu GitHub.
 </p>
 
   <div>
