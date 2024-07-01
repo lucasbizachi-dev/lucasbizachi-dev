@@ -19,7 +19,7 @@ Olá, meu nome é Lucas e sou técnico em Desenvolvimento de Sistemas, formado p
   <br>
 
   ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby)](https://skillicons.dev)
 
 <br>
 
