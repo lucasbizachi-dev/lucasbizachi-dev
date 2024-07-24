@@ -1,7 +1,6 @@
 <h1> :wave: Bem-Vindos ao meu GitHub!</h1>
 <img src="https://komarev.com/ghpvc/?username=lucasbizachi-dev&color=ff4700" alt="Profile views" /> 
 
-### Formação:
   * 🎓 Artes Visuais
   * 🎨 Design Gráfico
   * 👨🏻‍💻 Desenvolvimento de Sistemas
