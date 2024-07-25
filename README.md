@@ -25,6 +25,6 @@ Olá, meu nome é Lucas e sou técnico em Desenvolvimento de Sistemas, formado p
 <h2 align="left"> :bar_chart: GitHub Stats</h2>
 <div align="lefth">
   <a href="https://github.com/lucasbizachi-dev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasbizachi-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbizachi-dev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbizachi-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbizachi-dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
